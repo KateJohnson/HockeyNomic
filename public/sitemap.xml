@@ -8,83 +8,20 @@
   </url>
   
   <url>
-    <loc>/post/work2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/work3/</loc>
-    <lastmod>2017-05-05T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/work4/</loc>
-    <lastmod>2017-11-21T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/work5/</loc>
-    <lastmod>2017-12-25T19:53:42+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/work7/</loc>
-    <lastmod>2018-01-01T19:57:40+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/work8/</loc>
-    <lastmod>2018-02-14T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/work9/</loc>
-    <lastmod>2018-05-06T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/work10/</loc>
-    <lastmod>2018-07-04T20:22:08+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/work11/</loc>
-    <lastmod>2018-09-30T20:23:59+05:30</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2017-02-14T18:25:22+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-09-30T20:23:59+05:30</lastmod>
+    <lastmod>2017-02-14T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-09-30T20:23:59+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2017-12-25T19:53:42+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/photography/</loc>
-    <lastmod>2017-12-25T19:53:42+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/code/</loc>
-    <lastmod>2017-11-21T19:50:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/travel/</loc>
-    <lastmod>2017-05-05T19:44:32+05:30</lastmod>
+    <lastmod>2017-02-14T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   

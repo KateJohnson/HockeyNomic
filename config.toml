@@ -13,7 +13,7 @@ paginate = 5 #frontpage pagination
   # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
   [privacy.googleAnalytics]
     # set to true to disable service 
-    disable = false
+    disable = true
     # set to true to meet General Data Protection Regulation (GDPR)
     anonymizeIP = false
     respectDoNotTrack = false
@@ -22,11 +22,11 @@ paginate = 5 #frontpage pagination
 [params]
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
-  slogan = "A fast &amp; secure theme"
-  description = "Describe your website" # meta description
+  slogan = ""
+  description = "Hockey Analytics" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
-  author = "Göran Svensson"
-  authorLink = "https://appernetic.io/"
+  author = "Kate Johnson and Daniel He"
+  authorLink = ""
   bio = [
     "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
   ]
