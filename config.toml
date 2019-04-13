@@ -1,4 +1,4 @@
-baseurl = "https://https://hockeynomics.netlify.com"
+baseurl = "https://hockeynomics.netlify.com"
 title = "HockeyNomic"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"

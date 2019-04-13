@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>photography on HockeyNomic</title>
-    <link>//hockeynomics.netlify.com/categories/photography/</link>
+    <link>/categories/photography/</link>
     <description>Recent content in photography on HockeyNomic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Dec 2017 19:53:42 +0530</lastBuildDate>
     
-	<atom:link href="//hockeynomics.netlify.com/categories/photography/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/photography/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Totally Response Theme</title>
-      <link>//hockeynomics.netlify.com/post/work5/</link>
+      <link>/post/work5/</link>
       <pubDate>Mon, 25 Dec 2017 19:53:42 +0530</pubDate>
       
-      <guid>//hockeynomics.netlify.com/post/work5/</guid>
+      <guid>/post/work5/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     
