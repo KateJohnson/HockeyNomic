@@ -72,6 +72,11 @@
   </url>
   
   <url>
+    <loc>/post/work1/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
   </url>
   
