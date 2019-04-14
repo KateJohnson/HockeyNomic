@@ -2,7 +2,7 @@
 
 ### How to contribute posts
 
-@KateJohnson is the website maintainer and will work directly on the master branch. To contribute posts, do not make changes to this repository directly. Changes can be made on your local version of the repository, and then added to the master repository through pull requests from a fork or branch. When you want to submit new work that you developed, you must push all your changes to your fork or branch. Then, please send a `pull request` to merge with the master branch (which will automatically update the website).
+[KateJohnson](https://github.com/KateJohnson) is the website maintainer and will work directly on the master branch. To contribute posts, do not make changes to this repository directly. Changes can be made on your local version of the repository, and then added to the master repository through pull requests from a fork or branch. When you want to submit new work that you developed, you must push all your changes to your fork or branch. Then, please send a `pull request` to merge with the master branch (which will automatically update the website).
 
 #### How to fork?
 Go to the main repository [here](https://github.com/KateJohnson/Hockeynomic).
