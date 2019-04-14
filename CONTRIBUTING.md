@@ -1,8 +1,8 @@
 # CONTRIBUTING
 
-### How to contribute
+### How to contribute posts
 
-To contribute to the blog do not make changes directly in the master repository. Changes can be made to the master repository through pull requests from a fork or branch. When you want to submit new work that you developed, you must push all your changes to your fork or branch. Then, please send a `pull request` to merge with the master branch (which will automatically update the website).
+@KateJohnson is the website maintainer and will work directly on the master branch. To contribute posts, do not make changes to this repository directly. Changes can be made on your local version of the repository, and then added to the master repository through pull requests from a fork or branch. When you want to submit new work that you developed, you must push all your changes to your fork or branch. Then, please send a `pull request` to merge with the master branch (which will automatically update the website).
 
 #### How to fork?
 Go to the main repository [here](https://github.com/KateJohnson/Hockeynomic).
@@ -35,6 +35,16 @@ Use meaningful committ messages to help us understand pull requests!
 #### How to branch?
 Here are instructions for how to create and delete branches https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository
  
- #### Attribution
+### Issues
+
+Use issues to suggests changes to the website or additional features you'd like added
+
+### Sample workflow
+
+1) Create a local version of the forked repository as described above.
+2) Conduct analysis and visualizations in a seperate R Studio Project. Write the blog post as an .rmd or .md document.
+3) Add the blog post under content -> [post](https://github.com/KateJohnson/Hockeynomic/tree/master/content/post). Add the images that are linked to in your post to [static](https://github.com/KateJohnson/Hockeynomic/tree/master/static) in a folder with the same name as the file with your blog post.
+ 
+#### Attribution
  
  This document is based off of a group project from some excellent [UBC Master's of Data Science students](https://github.com/UBC-MDS/seating_pref) 
