@@ -1,4 +1,4 @@
-# Hockeynomic
+# PUCKONOMY
 
 A hockey blog!
 
