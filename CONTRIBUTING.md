@@ -5,7 +5,7 @@
 [KateJohnson](https://github.com/KateJohnson) is the website maintainer and will work directly on the master branch. To contribute posts, do not make changes to this repository directly. Changes can be made on your local version of the repository, and then added to the master repository through pull requests from a fork or branch. When you want to submit new work that you developed, you must push all your changes to your fork or branch. Then, please send a `pull request` to merge with the master branch (which will automatically update the website).
 
 #### How to fork?
-Go to the main repository [here](https://github.com/KateJohnson/Hockeynomic).
+Go to the main repository [here](https://github.com/KateJohnson/Puckonomy).
 
 On the right top corner, click on the `Fork` button.
 
@@ -20,7 +20,7 @@ Clone that repository and create an R studio project using the following steps.
 Once you've cloned the repository and have an Rstudio project, set up the original repository as the upstream master. Do this from the terminal using the following commands:
 
 ```
-git remote add upstream https://github.com/KateJohnson/Hockeynomic.git
+git remote add upstream https://github.com/KateJohnson/Puckonomy.git
 
 git fetch upstream
 git merge upstream/master
@@ -43,7 +43,7 @@ Use issues to suggests changes to the website or additional features you'd like 
 
 1) Create a local version of the forked repository as described above.
 2) Conduct analysis and visualizations in a seperate R Studio Project. Write the blog post as an .rmd or .md document.
-3) Add the blog post to your local version of Hockeynomics under content -> [post](https://github.com/KateJohnson/Hockeynomic/tree/master/content/post). Add the images that are linked to in your post to [static](https://github.com/KateJohnson/Hockeynomic/tree/master/static) in a folder with the same name as the file with your blog post.
+3) Add the blog post to your local version of Hockeynomics under content -> [post](https://github.com/KateJohnson/Puckonomy/tree/master/content/post). Add the images that are linked to in your post to [static](https://github.com/KateJohnson/Puckonomy/tree/master/static) in a folder with the same name as the file with your blog post.
 4) Submit a pull request to merge your local changes with the master, which will automatically update the website.
  
 #### Attribution
