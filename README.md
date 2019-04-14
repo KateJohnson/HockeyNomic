@@ -1,5 +1,7 @@
 # Hockeynomic
 
-To contribute to this blog, fork this repository, create a post locally. Submit a pull request to merge back to the master branch, which will autmoatically update the website.  
+A hockey blog!
 
-Blog posts should be in .md or .rmd format, and can be added to the content folder in this repository. Images (inclusing plots) should be added to the static folder.
+This repository is directly deployed as a website [here](https://hockeynomics.netlify.com/)   
+
+To contribute posts to this blog, use the workflow described in [CONTRIBUTING.MD] (https://github.com/KateJohnson/Hockeynomic/blob/master/CONTRIBUTING.md).
