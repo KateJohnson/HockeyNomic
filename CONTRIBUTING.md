@@ -1,6 +1,6 @@
 # CONTRIBUTING
 
-### How to contribute posts
+## How to contribute posts
 
 [KateJohnson](https://github.com/KateJohnson) is the website maintainer and will work directly on the master branch. To contribute posts, do not make changes to this repository directly. Changes can be made on your local version of the repository, and then added to the master repository through pull requests from a fork or branch. When you want to submit new work that you developed, you must push all your changes to your fork or branch. Then, please send a `pull request` to merge with the master branch (which will automatically update the website).
 
@@ -35,16 +35,16 @@ Use meaningful committ messages to help us understand pull requests!
 #### How to branch?
 Here are instructions for how to create and delete branches https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository
  
-### Issues
+## Issues
 
 Use issues to suggests changes to the website or additional features you'd like added
 
-### Sample workflow
+## Sample workflow
 
 1) Create a local version of the forked repository as described above.
 2) Conduct analysis and visualizations in a seperate R Studio Project. Write the blog post as an .rmd or .md document.
 3) Add the blog post to your local version of Hockeynomics under content -> [post](https://github.com/KateJohnson/Hockeynomic/tree/master/content/post). Add the images that are linked to in your post to [static](https://github.com/KateJohnson/Hockeynomic/tree/master/static) in a folder with the same name as the file with your blog post.
-4) Submit a pull request to merge your local changes with the master.
+4) Submit a pull request to merge your local changes with the master, which will automatically update the website.
  
 #### Attribution
  
