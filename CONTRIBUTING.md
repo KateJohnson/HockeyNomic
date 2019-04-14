@@ -33,7 +33,7 @@ If you want to update your forked version, use `git push` to send the new change
 Use meaningful committ messages to help us understand pull requests!
 
 #### How to branch?
-Here are instructions for how to create and delete branches https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository
+Here are instructions for how to create and delete [branches](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository)
  
 ## Issues
 
@@ -48,4 +48,4 @@ Use issues to suggests changes to the website or additional features you'd like 
  
 #### Attribution
  
- This document is based off of a group project from some excellent [UBC Master's of Data Science students](https://github.com/UBC-MDS/seating_pref) 
+ This document is based off of a group project from some awesome [UBC Master's of Data Science students](https://github.com/UBC-MDS/seating_pref) 
