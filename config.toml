@@ -98,8 +98,8 @@ paginate = 5 #frontpage pagination
     #pinterest     = "full profile url in pinterest"
 
     [params.writers."Daniel He"]
-    link = "https://appernetic.io/"
-    email = "goran@molnsys.com"
+    link = ""
+    email = ""
     bio = [
       "Daniel is also a PhD student at UBC, but he thinks Pokemon is cool."
     ]
