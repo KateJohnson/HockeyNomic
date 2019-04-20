@@ -3,6 +3,6 @@ date: "2019-04-14"
 title: About us
 ---
 
-Puckonomics takes a data first approach to hockey analytics.
+Puckonomics takes a data first approach to hockey analytics. We use understandable analyses and readable articles to answer the questions fans really care about. Whether it's the reasons for your favourite player's midseason slump, dissecting line changes, or analysing comebacks, we let the data do the talking. 
 
-One day, Kate and Daniel were bored at a conference and decided they'd much rather blog about hockey than listen to other people talk. So they skipped the rest of the day and created this site over beers. 
+Puckonomics is run by Kate and Daniel, two PhD students in Health Economics and Bioinformatics at the University of British Columbia. They love watching hockey, playing with data, and using science to try to understand what's really going on. We hope you enjoy it!  
