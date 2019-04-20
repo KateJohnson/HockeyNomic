@@ -28,7 +28,7 @@ paginate = 5 #frontpage pagination
   author = "Kate Johnson and Daniel He"
   authorLink = ""
   bio = [
-    "Bringing data to the ice."
+    "Bringing data to the ice"
   ]
   copyright = [
     "&copy; 2019 Kate Johnson and Daniel He",
@@ -86,7 +86,7 @@ paginate = 5 #frontpage pagination
     link = "https://katemjohnson.com"
     email = "katemarjohnson@gmail.com"
     bio = [
-      "Kate is a PhD student in Health Economics at UBC. She thinks hockey is cool and Pokemon is not."
+      "Kate is a PhD student in Health Economics at UBC. She likes hockey and data and apple pie."
     ]
     #facebook      = "full lukas profile url in facebook"
     #googleplus    = "full profile url in googleplus"
@@ -101,7 +101,7 @@ paginate = 5 #frontpage pagination
     link = ""
     email = ""
     bio = [
-      "Daniel is also a PhD student at UBC, but he thinks Pokemon is cool."
+      "Daniel is also a PhD student at UBC. He thinks Pokemon is cool."
     ]
     facebook      = "full Göran profile url in facebook"
     googleplus    = "full profile url in googleplus"
