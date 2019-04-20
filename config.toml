@@ -28,7 +28,7 @@ paginate = 5 #frontpage pagination
   author = "Kate Johnson and Daniel He"
   authorLink = ""
   bio = [
-    "A blog for all things hockey and science."
+    "Bringing data to the ice."
   ]
   copyright = [
     "&copy; 2019 Kate Johnson and Daniel He",
